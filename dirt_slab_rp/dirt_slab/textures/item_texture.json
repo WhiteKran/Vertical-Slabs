@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "myname_resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "dirt_slab": {
+      "textures": "textures/blocks/dirt"
+    },
+    "grass_slab": {
+      "textures": "textures/blocks/grass_top"
+    }
+  }
+}

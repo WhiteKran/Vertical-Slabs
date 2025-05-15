@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "dirt_slab",
+		"description": "dirt_slab Resource Pack 2",
+		"uuid": "979c5049-30c6-4653-88a7-16be5c959871",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["whitekran"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.4.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "dirt_slab",
+			"type": "resources",
+			"uuid": "a507a62f-32a9-4c02-8453-3d3ee8d7472b",
+			"version": [1, 0, 0]
+		}
+	]
+}

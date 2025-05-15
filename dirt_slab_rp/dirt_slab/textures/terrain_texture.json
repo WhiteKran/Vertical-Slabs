@@ -1,0 +1,14 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"dirt_slab": {
+			"textures": "textures/blocks/dirt"
+		},
+		"grass_slab": {
+			"textures": "textures/blocks/grass_top"
+		}
+	}
+}

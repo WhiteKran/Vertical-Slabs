@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "dirt_slab",
+		"description": "dirt_slab Behavior Pack 2",
+		"uuid": "c5ce2f5f-7878-4cb5-aaaf-3633701b2fe2",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["whitekran"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.4.1"]
+		}
+	},
+	"capabilities":["script_eval"],
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "c2ef0555-8471-47c3-aaa8-65a051b05da5",
+			"type": "data"
+		}, 
+		{
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/main.js",
+			"uuid": "2e168e2b-b45f-4525-9e60-5c4c60c2e9ec",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "979c5049-30c6-4653-88a7-16be5c959871",
+			"version": [1, 0, 0]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.0.0-beta"
+		}
+	]
+}
